@@ -48,13 +48,16 @@ Gender Distribution (Donut Chart)
 Key Business Insights Section
 
 🔍 Key Insights:
-HR department records the highest attrition rate (~5.3%), indicating potential retention concerns.
-Operations department has the highest average salary (~82K), suggesting concentration of senior roles.
-Workforce gender distribution is nearly balanced, with females representing 50.6%.
-Average employee tenure across the company is 6.8 years.
+  HR department records the highest attrition rate (~5.3%), indicating potential retention concerns.
+  Operations department has the highest average salary (~82K), suggesting concentration of senior roles.
+  Workforce gender distribution is nearly balanced, with females representing 50.6%.
+  Average employee tenure across the company is 6.8 years.
 
 🛠 Tools & Technologies Used:
 Power BI
 DAX (Data Analysis Expressions)
 Data Modeling
 Data Visualization
+
+<img width="819" height="467" alt="HR_Analytics_Dashboard Screenshot" src="https://github.com/user-attachments/assets/93d7009e-29d8-411e-8a80-7d9954ba372a" />
+
